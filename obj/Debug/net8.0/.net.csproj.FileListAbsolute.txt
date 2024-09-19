@@ -7,9 +7,9 @@ C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.GeneratedMSBuildEdito
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.AssemblyInfoInputs.cache
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.AssemblyInfo.cs
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.csproj.CoreCompileInputs.cache
+C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.sourcelink.json
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.dll
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\refint\.net.dll
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.pdb
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.genruntimeconfig.cache
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\ref\.net.dll
-C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.sourcelink.json
