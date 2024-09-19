@@ -12,3 +12,4 @@ C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\refint\.net.dll
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.pdb
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.genruntimeconfig.cache
 C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\ref\.net.dll
+C:\Users\VENKATESHA G S\Desktop\.net\obj\Debug\net8.0\.net.sourcelink.json

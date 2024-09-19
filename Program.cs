@@ -13,7 +13,6 @@ class Program
         foreach (Match match in matches)
         {
             string date = match.Value;
-            // Optional: Validate the date
             if (DateTime.TryParseExact(date, "MMddyyyy", null, System.Globalization.DateTimeStyles.None, out DateTime validDate))
             {
                 Console.WriteLine($"Valid date found: {validDate.ToString("MM/dd/yyyy")}");
